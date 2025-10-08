@@ -55,7 +55,7 @@
         "watch:src": "tsc -w"
     },
     "dependencies": {
-        "@jupyterlab/application": "^4.0.8",
+        "@jupyterlab/application": "^4.4.7",
         "@types/node": "^20.9.0"
     },
     "devDependencies": {
